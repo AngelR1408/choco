@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 egg puff
 biscuits
-=======
+
 chocolates
 ice cream
->>>>>>> 8483cbaf4b54e58d46a9248bf0f0bee54832445b
+
